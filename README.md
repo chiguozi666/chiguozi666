@@ -1,16 +1,13 @@
-### Hi there 👋
+# 自我介绍
 
-<!--
-**chiguozi666/chiguozi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public static void main(String args[]){
+    system.out.println("你好，我是郭裕霖");
+}
+```
 
-Here are some ideas to get you started:
+- 姓名:郭裕霖
+- 班级:18信息安全(1)班
+- 兴趣:打代码，去旅游
+- Github主页:<https://github.com/chiguozi666>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
